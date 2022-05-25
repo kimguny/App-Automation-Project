@@ -18,5 +18,13 @@ Baedal Minjok App UI Test
 - H.아메리카노 1개 담기
 - 뒤로가기 3번, 메인화면에서 앱 종료
 
+### Required Tools
+1. Appium Inspector
+2. Appium Server GUI
+3. Xcode
+
+[Appium Android Device Connect](https://feather-cilantro-8a7.notion.site/Appium-Android-Device-Connect-b90007e8c33441239cd5b76127e3470d)
+[Appium Ios Device Connect](https://feather-cilantro-8a7.notion.site/Appium-IOS-Device-Connect-7c5dcb02f032444b91c5074f169ebd4e)
+
 ### version
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>: v3.9.1
